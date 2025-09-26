@@ -1,7 +1,7 @@
 # Loopback
 
 <div align="center">
-  <img src="https://rogueamoeba.com/support/manuals/loopback/images/index-title.png" width="250"/>
+  <img src="https://rogueamoeba.com/support/manuals/loopback/images/index-title.png" width="450"/>
 </div>  
 <br>
 <div align="center">
@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://rogueamoeba.com/loopback/images/tour-full.png" width="1080"/>
+  <img src="https://rogueamoeba.com/loopback/images/tour-full.png" width="880"/>
 </div>  
 <br>
 
